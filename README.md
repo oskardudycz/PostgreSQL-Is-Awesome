@@ -8,5 +8,6 @@ This repository contains resources I found during my journey with PostgreSQL.
 
 - [Postgres Documentation - Table Partitioning](https://pgdash.io/blog/partition-postgres-11.html)
 - [Amit Jain - How to Take Advantage of the New Partitioning Features in PostgreSQL 11](https://severalnines.com/database-blog/how-take-advantage-new-partitioning-features-postgresql-11)
+- [pgDash - PostgreSQL 11 Partitioning Improvements](https://pgdash.io/blog/partition-postgres-11.html)
 - [StreamBright - Creating partitions automatically in PostgreSQL](https://medium.com/@StreamBright/creating-partitions-automatically-in-postgresql-7006d68c0fbb)
 - [Daniel Westermann - PostgreSQL 14: Automatic hash and list partitioning?](https://blog.dbi-services.com/postgresql-14-automatic-hash-and-list-partitioning/)
