@@ -11,3 +11,6 @@ This repository contains resources I found during my journey with PostgreSQL.
 - [pgDash - PostgreSQL 11 Partitioning Improvements](https://pgdash.io/blog/partition-postgres-11.html)
 - [StreamBright - Creating partitions automatically in PostgreSQL](https://medium.com/@StreamBright/creating-partitions-automatically-in-postgresql-7006d68c0fbb)
 - [Daniel Westermann - PostgreSQL 14: Automatic hash and list partitioning?](https://blog.dbi-services.com/postgresql-14-automatic-hash-and-list-partitioning/)
+
+## Graph Usage
+- [Apache AGE - Graph database optimized for fast analysis and real-time data processing](https://github.com/apache/incubator-age)
