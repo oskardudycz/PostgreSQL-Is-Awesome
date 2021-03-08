@@ -13,4 +13,4 @@ This repository contains resources I found during my journey with PostgreSQL.
 - [Daniel Westermann - PostgreSQL 14: Automatic hash and list partitioning?](https://blog.dbi-services.com/postgresql-14-automatic-hash-and-list-partitioning/)
 
 ## Graph Usage
-- [Apache AGE - Graph database optimized for fast analysis and real-time data processing](https://github.com/apache/incubator-age)
+- [Apache AGE - Postgres extension - Graph database optimized for fast analysis and real-time data processing](https://github.com/apache/incubator-age)
