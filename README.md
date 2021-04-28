@@ -36,3 +36,6 @@ This repository contains resources I found during my journey with PostgreSQL.
 
 ## Graph Usage
 - [Apache AGE - Postgres extension - Graph database optimized for fast analysis and real-time data processing](https://github.com/apache/incubator-age)
+
+## Testing
+- [IntegreSQL - Manages isolated PostgreSQL databases for your integration tests](https://github.com/allaboutapps/integresql)
