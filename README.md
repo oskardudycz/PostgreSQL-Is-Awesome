@@ -5,7 +5,7 @@
 This repository contains resources I found during my journey with PostgreSQL.
 
 ### Hostings
-- [Neon](https://www.elephantsql.com/)
+- [Neon](https://neon.tech/)
 - [ElephantSql](https://www.elephantsql.com/)
 
 ## Partitioning
