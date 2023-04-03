@@ -4,11 +4,16 @@
 
 This repository contains resources I found during my journey with PostgreSQL.
 
+### Postgres-based databases
+- [Citus - Distributed PostgreSQL as an extension](https://github.com/citusdata/citus)
+- [Apache AGE - Postgres extension - Graph database optimized for fast analysis and real-time data processing](https://github.com/apache/incubator-age)
+- [Google - Run AlloyDB anywhere - in your data center, your laptop, or in any cloud](https://cloud.google.com/blog/products/databases/run-alloydb-anywhere?trk=feed_main-feed-card_feed-article-content)
+
 ### Hostings
 - [Neon](https://neon.tech/)
 - [ElephantSql](https://www.elephantsql.com/)
 
-## Partitioning
+### Partitioning
 - [Postgres Documentation - Table Partitioning](https://pgdash.io/blog/partition-postgres-11.html)
 - [EDB - Postgres Table Partitioning](https://www.enterprisedb.com/blog/postgres-table-partitioning)
 - [David Rowley - Partition Elimination in PostgreSQL 11](https://www.2ndquadrant.com/en/blog/partition-elimination-postgresql-11/)
@@ -51,9 +56,6 @@ This repository contains resources I found during my journey with PostgreSQL.
 
 ### JSON
 - [PostgresPro - SQL/JSON patches committed to PostgreSQL 15!](https://postgrespro.com/blog/pgsql/5969433)
-
-## Graph Usage
-- [Apache AGE - Postgres extension - Graph database optimized for fast analysis and real-time data processing](https://github.com/apache/incubator-age)
 
 ## Keys
 - [Supabase - Choosing a Postgres Primary Key](https://supabase.com/blog/choosing-a-postgres-primary-key)
