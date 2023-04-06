@@ -65,6 +65,9 @@ This repository contains resources I found during my journey with PostgreSQL.
 ## Testing
 - [IntegreSQL - Manages isolated PostgreSQL databases for your integration tests](https://github.com/allaboutapps/integresql)
 
+### Security
+- [Paul Ramsey - Generate Unlimited Crypto Using Postgres!](https://www.crunchydata.com/blog/postgres-pgcrypto)
+
 ### WASM
 - [Supabase - Postgres WASM by Snaplet and Supabase](https://supabase.com/blog/postgres-wasm)
 - [WASMer - Postgres library to run WebAssembly binaries](https://github.com/wasmerio/wasmer-postgres)
