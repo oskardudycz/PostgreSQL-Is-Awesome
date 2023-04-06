@@ -46,7 +46,7 @@ This repository contains resources I found during my journey with PostgreSQL.
 - [Npgsql - Logical Replication](https://www.npgsql.org/doc/replication.html)
 - [Postgresql To Kinesis For Java - Disney Streaming](https://github.com/disneystreaming/pg2k4j)
 
-### Locks
+## Locks
 - [Chris Hanks - Turning PostgreSQL into a queue serving 10,000 jobs per second](https://gist.github.com/chanks/7585810)
 - [Alvaro Herrera - Postgres - Waiting for 9.5 – Implement SKIP LOCKED for row-level locks](https://www.depesz.com/2014/10/10/waiting-for-9-5-implement-skip-locked-for-row-level-locks/)
 - [Vlad Mihalcea - How do PostgreSQL advisory locks work](https://vladmihalcea.com/how-do-postgresql-advisory-locks-work/)
@@ -56,7 +56,7 @@ This repository contains resources I found during my journey with PostgreSQL.
 - [Nickolay Ihalainen - PostgreSQL locking, part 2: heavyweight locks](https://www.percona.com/blog/2018/10/24/postgresql-locking-part-2-heavyweight-locks/)
 - [Nickolay Ihalainen - PostgreSQL locking, part 3: lightweight locks](https://www.percona.com/blog/2018/10/30/postgresql-locking-part-3-lightweight-locks/)
 
-### JSON
+## JSON
 - [PostgresPro - SQL/JSON patches committed to PostgreSQL 15!](https://postgrespro.com/blog/pgsql/5969433)
 
 ## Keys
@@ -65,12 +65,16 @@ This repository contains resources I found during my journey with PostgreSQL.
 ## Testing
 - [IntegreSQL - Manages isolated PostgreSQL databases for your integration tests](https://github.com/allaboutapps/integresql)
 
-### Security
+## Security
 - [Paul Ramsey - Generate Unlimited Crypto Using Postgres!](https://www.crunchydata.com/blog/postgres-pgcrypto)
+- [Marco Pegoraro - Per-User Encryption with Postgres](https://marcopeg.com/per-user-encryption-with-postgres/)
 
-### WASM
+## WASM
 - [Supabase - Postgres WASM by Snaplet and Supabase](https://supabase.com/blog/postgres-wasm)
 - [WASMer - Postgres library to run WebAssembly binaries](https://github.com/wasmerio/wasmer-postgres)
+
+## Wire Protocol
+- [DataStation - The world of PostgreSQL wire compatibility](https://datastation.multiprocess.io/blog/2022-02-08-the-world-of-postgresql-wire-compatibility.html)
 
 ## Releases
 - [Postgres 15 released!](https://www.postgresql.org/about/news/postgresql-15-released-2526/)
