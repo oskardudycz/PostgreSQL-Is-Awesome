@@ -4,16 +4,18 @@
 
 This repository contains resources I found during my journey with PostgreSQL.
 
-### Postgres-based databases
+## Postgres-based databases
 - [Citus - Distributed PostgreSQL as an extension](https://github.com/citusdata/citus)
 - [Apache AGE - Postgres extension - Graph database optimized for fast analysis and real-time data processing](https://github.com/apache/incubator-age)
 - [Google - Run AlloyDB anywhere - in your data center, your laptop, or in any cloud](https://cloud.google.com/blog/products/databases/run-alloydb-anywhere?trk=feed_main-feed-card_feed-article-content)
-
-### Hostings
+- [Supabase - Supabase is an open source Firebase alternative. Start your project with a Postgres database, Authentication, instant APIs, Edge Functions, Realtime subscriptions, and Storage](https://supabase.com/)
 - [Neon](https://neon.tech/)
+
+## Hostings
+- [Fly.io - Postgres](https://fly.io/docs/postgres/)
 - [ElephantSql](https://www.elephantsql.com/)
 
-### Partitioning
+## Partitioning
 - [Postgres Documentation - Table Partitioning](https://pgdash.io/blog/partition-postgres-11.html)
 - [EDB - Postgres Table Partitioning](https://www.enterprisedb.com/blog/postgres-table-partitioning)
 - [David Rowley - Partition Elimination in PostgreSQL 11](https://www.2ndquadrant.com/en/blog/partition-elimination-postgresql-11/)
@@ -25,7 +27,7 @@ This repository contains resources I found during my journey with PostgreSQL.
 - [AWS - Managing PostgreSQL partitions with the pg_partman extension](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/PostgreSQL_Partitions.html)
 - [Automatically Creating Partition in PostgreSQL](https://www.tencentcloud.com/document/product/409/47394)
 
-### WAL
+## WAL
 - [Devrim Gündüz -WAL: Everything you want to know](https://www.youtube.com/watch?v=feTihjJJs3g)
 
 ### Logical Replication
@@ -62,6 +64,9 @@ This repository contains resources I found during my journey with PostgreSQL.
 
 ## Testing
 - [IntegreSQL - Manages isolated PostgreSQL databases for your integration tests](https://github.com/allaboutapps/integresql)
+
+### WASM
+- [Supabase - Postgres WASM by Snaplet and Supabase](https://supabase.com/blog/postgres-wasm)
 
 ## Releases
 - [Postgres 15 released!](https://www.postgresql.org/about/news/postgresql-15-released-2526/)
