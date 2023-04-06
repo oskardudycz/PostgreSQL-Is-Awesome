@@ -67,6 +67,7 @@ This repository contains resources I found during my journey with PostgreSQL.
 
 ### WASM
 - [Supabase - Postgres WASM by Snaplet and Supabase](https://supabase.com/blog/postgres-wasm)
+- [WASMer - Postgres library to run WebAssembly binaries](https://github.com/wasmerio/wasmer-postgres)
 
 ## Releases
 - [Postgres 15 released!](https://www.postgresql.org/about/news/postgresql-15-released-2526/)
