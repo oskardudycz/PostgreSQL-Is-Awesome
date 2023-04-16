@@ -78,3 +78,6 @@ This repository contains resources I found during my journey with PostgreSQL.
 
 ## Releases
 - [Postgres 15 released!](https://www.postgresql.org/about/news/postgresql-15-released-2526/)
+
+## Execution Plans
+- [Vlad Mihalcea - PostgreSQL Auto Explain](https://vladmihalcea.com/postgresql-auto-explain/)
