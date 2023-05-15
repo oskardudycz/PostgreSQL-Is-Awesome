@@ -11,7 +11,7 @@ This repository contains resources I found during my journey with PostgreSQL.
 - [Supabase - Supabase is an open source Firebase alternative. Start your project with a Postgres database, Authentication, instant APIs, Edge Functions, Realtime subscriptions, and Storage](https://supabase.com/)
 - [Neon](https://neon.tech/)
 
-## Hostings
+## Hosting
 - [Fly.io - Postgres](https://fly.io/docs/postgres/)
 - [ElephantSql](https://www.elephantsql.com/)
 
@@ -45,6 +45,9 @@ This repository contains resources I found during my journey with PostgreSQL.
 - [Azure Database for PostgreSQL—Logical decoding and wal2json for change data capture](https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-logical-decoding-and-wal2json-for-change-data-capture/)
 - [Npgsql - Logical Replication](https://www.npgsql.org/doc/replication.html)
 - [Postgresql To Kinesis For Java - Disney Streaming](https://github.com/disneystreaming/pg2k4j)
+
+## Queuing
+- [pg-boss - Queueing jobs in Node.js using PostgreSQL like a boss](https://github.com/timgit/pg-boss)
 
 ## Locks
 - [Chris Hanks - Turning PostgreSQL into a queue serving 10,000 jobs per second](https://gist.github.com/chanks/7585810)
@@ -81,3 +84,12 @@ This repository contains resources I found during my journey with PostgreSQL.
 
 ## Execution Plans
 - [Vlad Mihalcea - PostgreSQL Auto Explain](https://vladmihalcea.com/postgresql-auto-explain/)
+
+## API
+- [PostgREST - A standalone web server that turns your PostgreSQL database directly into a RESTful API](https://postgrest.org)
+
+## Clients
+
+### NPM
+- [Slonik - A Node.js PostgreSQL client with runtime and build time type safety, and composable SQL](https://github.com/gajus/slonik)
+
