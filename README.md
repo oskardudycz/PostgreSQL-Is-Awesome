@@ -28,6 +28,7 @@ This repository contains resources I found during my journey with PostgreSQL.
 - [Automatically Creating Partition in PostgreSQL](https://www.tencentcloud.com/document/product/409/47394)
 - [Workable Tech Blog - Postgres — Live Table Partitioning](https://engineering.workable.com/postgres-live-partitioning-of-existing-tables-15a99c16b291)
 - [AWS - Partition existing tables using native commands in Amazon RDS for PostgreSQL and Amazon Aurora PostgreSQL](https://aws.amazon.com/blogs/database/partition-existing-tables-using-native-commands-in-amazon-rds-for-postgresql-and-amazon-aurora-postgresql/)
+- [Azure - Azure Database for PostgreSQL : Logical Replication](https://techcommunity.microsoft.com/t5/azure-database-for-postgresql/azure-database-for-postgresql-logical-replication/ba-p/3799509)
 
 ## WAL
 - [Devrim Gündüz -WAL: Everything you want to know](https://www.youtube.com/watch?v=feTihjJJs3g)
