@@ -64,8 +64,12 @@ This repository contains resources I found during my journey with PostgreSQL.
 - [Nickolay Ihalainen - PostgreSQL locking, part 2: heavyweight locks](https://www.percona.com/blog/2018/10/24/postgresql-locking-part-2-heavyweight-locks/)
 - [Nickolay Ihalainen - PostgreSQL locking, part 3: lightweight locks](https://www.percona.com/blog/2018/10/30/postgresql-locking-part-3-lightweight-locks/)
 
+## Scaling
+- [Cloudflare - Performance isolation in a multi-tenant database environment](https://blog.cloudflare.com/performance-isolation-in-a-multi-tenant-database-environment/)
+
 ## JSON
 - [PostgresPro - SQL/JSON patches committed to PostgreSQL 15!](https://postgrespro.com/blog/pgsql/5969433)
+
 
 ## Keys
 - [Supabase - Choosing a Postgres Primary Key](https://supabase.com/blog/choosing-a-postgres-primary-key)
@@ -92,6 +96,9 @@ This repository contains resources I found during my journey with PostgreSQL.
 
 ## API
 - [PostgREST - A standalone web server that turns your PostgreSQL database directly into a RESTful API](https://postgrest.org)
+
+## JavaScript
+- [PLJS - Javascript Language Plugin for PostreSQL](https://github.com/plv8/pljs)
 
 ## Clients
 
