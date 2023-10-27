@@ -1,4 +1,4 @@
-[![Twitter Follow](https://img.shields.io/twitter/follow/oskar_at_net?style=social)](https://twitter.com/oskar_at_net) [![Github Sponsors](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&link=https://github.com/sponsors/oskardudycz/)](https://github.com/sponsors/oskardudycz/) [![blog](https://img.shields.io/badge/blog-event--driven.io-brightgreen)](https://event-driven.io/)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20px" />](https://www.linkedin.com/in/oskardudycz/) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly) [![Github Sponsors](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&link=https://github.com/sponsors/oskardudycz/)](https://github.com/sponsors/oskardudycz/) [![blog](https://img.shields.io/badge/blog-event--driven.io-brightgreen)](https://event-driven.io/?utm_source=architecture_weekly)
 
 # PostgreSQL is Awesome!
 
@@ -53,6 +53,7 @@ This repository contains resources I found during my journey with PostgreSQL.
 
 ## Queuing
 - [pg-boss - Queueing jobs in Node.js using PostgreSQL like a boss](https://github.com/timgit/pg-boss)
+- [Adriano Caloiaro - Choose Postgres queue technology](https://adriano.fyi/posts/2023-09-24-choose-postgres-queue-technology/)
 
 ## Locks
 - [Chris Hanks - Turning PostgreSQL into a queue serving 10,000 jobs per second](https://gist.github.com/chanks/7585810)
@@ -69,7 +70,6 @@ This repository contains resources I found during my journey with PostgreSQL.
 
 ## JSON
 - [PostgresPro - SQL/JSON patches committed to PostgreSQL 15!](https://postgrespro.com/blog/pgsql/5969433)
-
 
 ## Keys
 - [Supabase - Choosing a Postgres Primary Key](https://supabase.com/blog/choosing-a-postgres-primary-key)
@@ -99,6 +99,10 @@ This repository contains resources I found during my journey with PostgreSQL.
 
 ## JavaScript
 - [PLJS - Javascript Language Plugin for PostreSQL](https://github.com/plv8/pljs)
+
+## Caching
+- [Martin Heinz - You Don't Need a Dedicated Cache Service - PostgreSQL as a Cache](https://martinheinz.dev/blog/105)
+- [Greg Sabino Mullane - PostgreSQL Unlogged Tables - Look Ma, No WAL!](https://www.crunchydata.com/blog/postgresl-unlogged-tables)
 
 ## Clients
 
